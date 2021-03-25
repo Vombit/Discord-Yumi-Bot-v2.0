@@ -1,0 +1,25 @@
+{
+  "name": "yumi",
+  "version": "2.0.0",
+  "description": "f",
+  "main": "yumi.js",
+  "scripts": {
+    "start": "node yumi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vombit",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.11",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "mysql2": "^2.2.5"
+  },
+  "engines": {
+    "node": "13.6.0"
+  }
+}
