@@ -1,4 +1,4 @@
-# Yumi-v2.0
+# Yumi-v2.0 (development is frozen)
 
 Yumi is a great companion for the server.
 Use '.help'
