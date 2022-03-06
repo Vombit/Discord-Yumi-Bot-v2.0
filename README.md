@@ -7,7 +7,7 @@ Features:
 
 User profiles;
 
-<img src="https://media.discordapp.net/attachments/824108161707278356/828296400349036614/Vombit5086YumiBot.png" width="250" heigth="250">
+<img src="https://media.discordapp.net/attachments/644180379061714947/814898056267825193/klark1673YumiBot.png" width="250" heigth="250">
 
 general rating system;
 
